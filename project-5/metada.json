@@ -1,0 +1,6 @@
+{
+"name": "Fernanda Token",
+"symbol": "FRT",
+"description": "Example token for Solana Foundation Bootcamp.",
+"image": "https://raw.githubusercontent.com/mikemaccana/token-command-line/main/lights.png"
+}
